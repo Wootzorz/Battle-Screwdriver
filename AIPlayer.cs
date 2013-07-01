@@ -13,6 +13,7 @@ public class AIPlayer : Player {
 	
 	}
 	//hey todd did this work with git?
+	//So, I go this freaking thing to work. FINALLY
 	public override void TurnUpdate ()
 	{
 		transform.renderer.material.color = Color.red;
