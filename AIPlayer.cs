@@ -12,7 +12,7 @@ public class AIPlayer : Player {
 	void Update () {
 	
 	}
-	
+	//hey todd did this work with git?
 	public override void TurnUpdate ()
 	{
 		transform.renderer.material.color = Color.red;
